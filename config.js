@@ -37,7 +37,6 @@ const aIMG = [
   [ "Tower 1", "iframe|http://192.168.2.42/rotator.htm", ],
   [ "Tower 2", "iframe|http://192.168.2.40/rotator.htm", ],
   [ "Tower 3", "iframe|http://192.168.2.50/rotator.htm", ],
-  [ "ACOM 2000A", "iframe|http://192.168.2.46/ampett.htm", ],
   ["HF PROPAGATION",
     "https://www.hamqsl.com/solar101vhf.php",
     "https://www.hamqsl.com/solar100sc.php",
@@ -57,7 +56,10 @@ const aIMG = [
     "LIGHTNING",
     "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
     //"iframe|https://map.blitzortung.org/#1.5/44/-87",
-    "iframe|https://map.blitzortung.org/#6/49/-122.9",
+  ],
+  [
+    "LIGHTNING LOCAL",
+    "iframe|https://map.blitzortung.org/#6/49/-124.9",
   ],
   [
     "Maximum Usable Frequency",
